@@ -137,7 +137,7 @@ render() {
                     navIcon={images.arrowBackBlack}
                     onIconClicked={() => this.hideSearchToolBar()}
                     style={Styles.searchToolbar}>
-                    <View style={{flex: 1, flexDirection: 'row'}}>
+                    <View style={{flex: 1, flexDirection: 'row', backgroundColor: '#FFF'}}>
                         <TextInput style={Styles.searchText} autoFocus={true} placeholder="Search" underlineColorAndroid={'transparent'} autoCorrect={false} />
                     </View>
                 </ToolbarAndroid>
