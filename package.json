@@ -1,0 +1,29 @@
+{
+  "name": "react-native-android-circular-reveal",
+  "version": "0.2.9",
+  "description": "Circular reveal component for android in React Native",
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "android",
+    "circular reveal",
+    "animation"
+  ],
+  "author": {
+    "name": "Ibrahim Ahmed",
+    "email": "ibrahimtorbany.dev@gmail.com"
+  },
+  "homepage": "https://github.com/Ibrahim-GHub/react-native-android-circular-reveal",
+  "bugs": {
+    "url": "https://github.com/Ibrahim-GHub/react-native-android-circular-reveal/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Ibrahim-GHub/react-native-android-circular-reveal.git"
+  },
+  "license": "MIT"
+}
