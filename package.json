@@ -1,6 +1,6 @@
 {
   "name": "react-native-android-circular-reveal",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "description": "Circular reveal component for android in React Native",
   "main": "index.js",
   "keywords": [
